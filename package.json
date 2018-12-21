@@ -1,5 +1,5 @@
 {
-    "name": "escodegen",
+    "name": "escodegen-bigint",
     "description": "ECMAScript code generator",
     "homepage": "http://github.com/estools/escodegen",
     "main": "escodegen.js",
